@@ -20,8 +20,7 @@ MCP（模型上下文协议）是一个允许服务器向语言模型暴露可�
 - ⚙️ Multiple transport types support (stdio/sse/http) | 支持多种传输类型（stdio/sse/http）
 
 ## Quick Start | 快速开始
-
-1. Install dependencies | 安装依赖:
+. Install dependencies | 安装依赖:
 ```bash
 pip install -r requirements.txt
 ```
